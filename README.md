@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development in various languages.
 - 🌱 I’m currently learning back-end programming
 -  Knowledge of the following technologies:
--  HTML, CSS, SASS, GIT, NodeJS, REACT JS, JavaScript
+-  HTML, CSS, SASS, GIT, NodeJS, REACT JS, JavaScript, firebase
 
 <!---
 alejo-martinez/alejo-martinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
