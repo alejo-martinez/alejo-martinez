@@ -1,6 +1,6 @@
 - 👋 Welcome!, I’m @alejo-martinez
 - 👀 I’m interested in web development in different languages.
-- 🌱 I’m currently learning back-end programming
+- 🌱 I’m currently learning back-end programming in node.js
 -  Knowledge of the following technologies:
 -  HTML, CSS, SASS, GIT, REACT JS, JavaScript, firebase
 
