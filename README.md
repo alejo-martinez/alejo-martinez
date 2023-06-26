@@ -1,6 +1,6 @@
 # 👋 Welcome!, I’m alejo martinez
 
-##Full Stack Developer
+### Full Stack Developer
 
 I’m interested in web development, creating different types of web and web apps.
 
