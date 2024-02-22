@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I am a full stack web developer with experience in
 ##  My skills:
 - **Frontend**: HTML, CSS, SASS, JavaScript, React js.
 - **Backend**: Node Js, Express, Mongo DB.
-- **Tools**: Git, GitHub, VS Code, Firebase.
+- **Mobile**: React Native
+- **Tools**: Git, GitHub, VS Code, Firebase, AWS, Expo, Eas Build.
 
 ## Contact: 
 - **LinkedIn**: www.linkedin.com/in/alejo-martinez-666087249
