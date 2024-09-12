@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a full stack web developer with experience in
 
 ##  My skills:
 - **Frontend**: HTML, CSS, SASS, JavaScript, React js.
-- **Backend**: Node Js, Express, Mongo DB.
+- **Backend**: Node Js, Express, Mongo DB, Typescript.
 - **Mobile**: React Native
 - **Tools**: Git, GitHub, VS Code, Firebase, AWS, Expo, Eas Build.
 
